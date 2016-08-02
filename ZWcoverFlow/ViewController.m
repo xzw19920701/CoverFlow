@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // 创建一个CollectionView
-//    UICollectionView *collectionView = [UICollectionView alloc]init
+
 }
 
 @end
