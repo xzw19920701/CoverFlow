@@ -16,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    // 自定义布局
     // 创建一个CollectionView
+    
 
 }
 
